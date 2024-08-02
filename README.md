@@ -22,7 +22,8 @@ You can install the required libraries using pip:
 
 ```bash
 pip install requests beautifulsoup4
-'''
-
+```
+```bash
 git clone https://github.com/yourusername/web-page-data-extractor.git
 cd web-page-data-extractor
+```
